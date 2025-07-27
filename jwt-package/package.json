@@ -1,0 +1,16 @@
+{
+  "name": "jwt-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aman Kumar Singh",
+  "license": "ISC",
+  "description": "A general boilerplate of JSON web token",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {}
+}
